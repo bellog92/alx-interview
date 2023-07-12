@@ -1,5 +1,7 @@
+#!/usr/bin/python3
 
-d that determines the number of minmum operations given n characters
+"""
+    Method that determines the number of minmum operations given n characters
 """
 
 
